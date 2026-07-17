@@ -76,8 +76,7 @@ jpackage `
 Find your completed setup file waiting inside the \dist folder as StorageManager.exe.
 
 ## 📂 Project Directory Architecture
-Plaintext
 ├── src/main/java/.../security/          # Custom Spring Security configuration, CORS, and JWT rules
 ├── src/main/java/.../controller/        # REST Controllers and authentication endpoints (/api/auth)
-├── src/main/java/.../UiApplication.java    # JavaFX environment initialization and main window context
+├── src/main/java/.../UiApplication.java # JavaFX environment initialization and main window context
 └── src/main/resources/static/           # Production-compiled React frontend build assets
